@@ -1,4 +1,4 @@
-**Todo List Application**
+# Todo List Application
 This project is a simple Todo List Application built with React and styled using Tailwind CSS. It allows users to add, mark as completed, and delete tasks.
 
 Features
